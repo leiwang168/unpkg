@@ -5,8 +5,6 @@ npm-debug.log*
 
 /.env
 /node_modules/
-/public/_client/
 /secrets.tar
-/server.js
 /service-account-staging.json
 /service-account.json
